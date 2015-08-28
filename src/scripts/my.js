@@ -1,0 +1,3 @@
+function talk(){
+  alert("hekki");
+}

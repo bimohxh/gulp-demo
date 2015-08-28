@@ -1,0 +1,10 @@
+body div {
+  width: 100%; }
+  body div a {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex; }
+
+body p {
+  text-align: center; }
